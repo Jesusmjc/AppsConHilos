@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppConHilos2", "AppConHilos2.csproj", "{93C835F5-A6AD-4415-A8E8-39EB628DA8B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C835F5-A6AD-4415-A8E8-39EB628DA8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C835F5-A6AD-4415-A8E8-39EB628DA8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C835F5-A6AD-4415-A8E8-39EB628DA8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C835F5-A6AD-4415-A8E8-39EB628DA8B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A65E6CCF-71A4-4771-A25D-BF5A4FE6673A}
+	EndGlobalSection
+EndGlobal
